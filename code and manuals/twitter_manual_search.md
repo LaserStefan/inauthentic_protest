@@ -12,5 +12,6 @@
 - greenwashing and fashion (brands)
   -sharepic/ information tweet: https://twitter.com/impactscoreapp/status/1410541112155160580/photo/1
   -infographics: https://twitter.com/Albaladm/status/1411956205933797377/photo/1
+-all tweets containing the keyword 'greenwashing' from @Fridays4future
   
   
