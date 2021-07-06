@@ -8,3 +8,5 @@
   - FFF, Greenpeace protest against Tesla, VW and other manufacturers in Germany e.g., https://twitter.com/KlimalisteBW/status/1410690702296629250 https://twitter.com/Ende__Gelaende/status/1388806384326692868
   - reactions to tweets by carmanufacturers, like https://twitter.com/volkswagen/status/1323594203482435584
   - recations to tweets by railway, like https://twitter.com/DB_Bahn/status/1301508015963738112
+@ShellLies, account that reveals greenwashing done by Shell, https://twitter.com/shellslies
+  
