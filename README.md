@@ -11,6 +11,13 @@ So far, we included different data sets relating to the theme of #greenwashing. 
 - **greenwashing**.  Time period: 01.01.2014 until 07.07.2021. This is the most extensive database which includes 943225 tweets. The most active day is 2019-12-02: 6831 tweets.
 - **account_replies** We have multiple smaller files that only include replies to certain company accounts that are correlated with the term "greenwashing." This includes vw, hm, shell, and db/bahn.
 
+Drawing on the basic dataset, smaller sets were produced that allow specific analysis:
+
+- **greenwashing_clean_advanced**: This is a reduced version of the original greenwashing.csv file. It offers direct access to hashtags and urls, and drops a few columns.
+- **greenwashing_top_hashtags**:  Provides a list of top hashtags.
+- **greenwashing_most_active_users**: Presents a users ranked by activity.
+- **greenwashing_urls**: Outputs all urls as a list.
+
 All data sets were downloaded using twarc, using the script ```code/get_data.ipynb``` (see section [Getting data from Twitter](#getting-data-from-twitter)). The respective queries for each data set are stored in the folder ```code/queries```. Files are stored in a different repository that is not open to the public.
 
 In this repository we store only the Tweet IDs and Conversation IDs of the Tweets and conversations that were included in the data analysis. We do not store full tweets, due to restrictions in the Twitter terms of use. Using the Tweet IDs stored in ```data/tweet-IDs```, you can "rehydrate" the corresponding tweets, using for example [twarc](https://scholarslab.github.io/learn-twarc/06-twarc-command-basics#rehydrate-a-dataset) by typing  
