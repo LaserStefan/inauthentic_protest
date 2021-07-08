@@ -17,7 +17,7 @@ Drawing on the basic dataset, smaller sets were produced that allow specific ana
 - **greenwashing_top_hashtags**:  Provides a list of top hashtags.
 - **greenwashing_most_active_users**: Presents a users ranked by activity.
 - **greenwashing_urls**: Outputs all urls as a list.
-- topicmodelling_: This is based on LDA topic-modeling and uses probabilities of co-occurrence. Words are tokenized and lemmatized (cutting it to its bare minimum). The selection of the number of categories is subjective. The names for topics is purely  through a qualitative reading of the top words and impressions from the larger data sets. Only English words are considered, the rest is skewing the statistics and requires for an alternative rendering.
+- topicmodeling_results: This is based on LDA topic-modeling and uses probabilities of co-occurrence. Words are tokenized and lemmatized (cutting it to its bare minimum). The selection of the number of categories is subjective. The names for topics is purely  through a qualitative reading of the top words and impressions from the larger data sets. Only English words are considered, the rest is skewing the statistics and requires for an alternative rendering.
 
 All data sets were downloaded using twarc, using the script ```code/get_data.ipynb``` (see section [Getting data from Twitter](#getting-data-from-twitter)). The respective queries for each data set are stored in the folder ```code/queries```. Files are stored in a different repository that is not open to the public.
 
