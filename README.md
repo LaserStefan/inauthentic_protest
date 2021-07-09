@@ -13,7 +13,7 @@ So far, we included different data sets relating to the theme of #greenwashing. 
 
 Drawing on the basic dataset, smaller sets were produced that allow specific analysis:
 
-- **greenwashing_clean_advanced**: This is a reduced version of the original greenwashing.csv file. It offers direct access to hashtags and urls, and drops a few columns.
+- **greenwashing_clean_: This is a reduced version of the original greenwashing.csv file. It offers direct access to hashtags and urls, and drops a few columns.
 - **greenwashing_top_hashtags**:  Provides a list of top hashtags.
 - **greenwashing_most_active_users**: Presents a users ranked by activity.
 - **greenwashing_urls**: Outputs all urls as a list.
