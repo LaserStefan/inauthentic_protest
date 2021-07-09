@@ -20,3 +20,7 @@ For a start, here are key frequencies from the ```greenwashing.csv``` dataset:
 - **hashtag_correlation_greenwashing_heatmapz**: This is the same matrix, but with one additional visual clue. Apart from colouring correlations are also reflected through size. The same values are used for this calculation. In theory, this enables finding significant correlations more easily.
 - **greenwashing_freq_interactive.html**: This gives the frequency of all tweets per hour in an interactive plotly file. Open the .html and zoom in/out. You may also implement this on websites.
 
+## Networks
+
+- **Greenwashing_mentions_network_regions:** Presents a Twitter mention network (autor – mentions) using Gephi. Forceatlas2 was used, thus filtering and showing only the most referenced accounts (<2% of all accounts in the data), and adjusting size through the pagerank algorithm. Clusters were stretched and coloured manually. In short, the network highlights regional/language clusters, with strong separate networks for French, Spanish, Great-British and German discussions. The European Union forms a strong semi-separate hub. In the middle of all interactions are a) activists like Thunberg and NGOs such as Greenpeace, b) news outlets, and c) large multinational companies, Shell being the most mentioned all-together. Interestingly, there is one strong separate hub of critical voices that assemble around palm oil and agriculture, which is very direct in addressing actors like the European Union.
+
