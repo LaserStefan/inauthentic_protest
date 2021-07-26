@@ -11,7 +11,7 @@ Stefan Laser (facilitator), Maria Lompe, Suay Melisa Ozkula, Estrid Sørensen, L
 
 We included different data sets relating to the theme of #greenwashing. We use a multi-platform approach and split the work into two groups. This repository focuses on the most extensive dataset: Twitter data. The following sets are ranked by time and size.
 
-- greenwashing_count. Time period: since 2006, when Twitter was established. This is a simple ```count``` dataset that gives us the tweets per day. We used this data to decide what our focus should be.
+- **greenwashing_count**. Time period: since 2006, when Twitter was established. This is a simple ```count``` dataset that gives us the tweets per day. We used this data to decide what our focus should be.
 - **greenwashing**.  Time period: 01.01.2014 until 07.07.2021. This is the most extensive database which includes 943225 tweets. The most active day is 2019-12-02: 6831 tweets.
 - **account_replies**. We have multiple smaller files that only include replies to certain company accounts that are correlated with the term "greenwashing." This includes vw, hm, shell, and db_bahn.
 - **greenwashing_correlated_hashtags**. From the main dataset (greenwashing) we took the top and most relevant correlated hashtags and queried twitter activity for June 2021. This gave us a dataset representing climate change discussions.
