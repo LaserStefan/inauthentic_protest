@@ -11,7 +11,7 @@ This work is licensed under a
 
 # Frequencies
 
-This files briefly explains the main plots and their general meaning. See ```code``` to understand the reasoning
+Below we briefly explain the main plots and their general meaning. See ```code``` to understand the reasoning
 
 For a start, here are key frequencies from the ```greenwashing.csv``` dataset:
 
