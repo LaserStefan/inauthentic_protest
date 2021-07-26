@@ -24,7 +24,7 @@ Drawing on the basic dataset, smaller sets were produced that allow specific ana
 
 - **greenwashing_urls**: Outputs all urls as a list.
 
-- topicmodeling: This is based on LDA topic-modeling and uses probabilities of co-occurrence. Words are tokenized and lemmatized (cutting it to its bare minimum). The selection of the number of categories is subjective. Topic modelling was conducted both for this Twitter group and the second group of the larger research project. We tested the datasets prior to select the model with the best number of topics. The results indicate that fewer topics producer more coherent topic models. However, we compared the results of 5 and 15 topics qualitatively to explore prevalent themes that might fall through the cracks.
+- **topicmodeling**: This is based on LDA topic-modeling and uses probabilities of co-occurrence. Words are tokenized and lemmatized (cutting it to its bare minimum). The selection of the number of categories is subjective. Topic modelling was conducted both for this Twitter group and the second group of the larger research project. We tested the datasets prior to select the model with the best number of topics. The results indicate that fewer topics producer more coherent topic models. The best model for the Twitter data is k=5 topics. However, we compared the results of various sizes (from k=3 to k=100) quantitatively (looking at coherence via GridSearchCV) and qualitatively (interpreting classifications) to explore the robustness of results and detect prevalent themes that might fall through the cracks. The results of the test and the main result (presented via PyLDAvis) can be found in ```data```. 
 
   Group 1:
 
