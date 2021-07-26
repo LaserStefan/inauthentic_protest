@@ -39,8 +39,3 @@ The code for these plots can be found in ```code```.
 - **greenwashing_users_freq**: This is a rather boring plot, only showing one plot with total users. We might use the visualization for comparisons later. Now it simply displays the 395542 unique users.
 - **greenwashing_follower_user**: The plot groups the users by followers. The majority of accounts have <1,000 users, yet a significant part of the users has >10,000 users. 
 - **greenwashing_freq_interactive.html**: This gives the frequency of all tweets per hour in an interactive plotly file. Open the .html and zoom in/out. You may also implement this on websites.
-
-## Networks
-
-- **Greenwashing_mentions_network_regions:** Presents a Twitter mention network (autor – mentions) using Gephi. Forceatlas2 was used, thus filtering and showing only the most referenced accounts (<2% of all accounts in the data), and adjusting size through the pagerank algorithm. Clusters were stretched and coloured manually. In short, the network highlights regional/language clusters, with strong separate networks for French, Spanish, Great-British and German discussions. The European Union forms a strong semi-separate hub. In the middle of all interactions are a) activists like Thunberg and NGOs such as Greenpeace, b) news outlets, and c) large multinational companies, Shell being the most mentioned all-together. Interestingly, there is one strong separate hub of critical voices that assemble around palm oil and agriculture, which is very direct in addressing actors like the European Union.
-
