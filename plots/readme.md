@@ -39,3 +39,8 @@ The code for these plots can be found in ```code```.
 - **greenwashing_users_freq**: This is a rather boring plot, only showing one plot with total users. We might use the visualization for comparisons later. Now it simply displays the 395542 unique users.
 - **greenwashing_follower_user**: The plot groups the users by followers. The majority of accounts have <1,000 users, yet a significant part of the users has >10,000 users. 
 - **greenwashing_freq_interactive.html**: This gives the frequency of all tweets per hour in an interactive plotly file. Open the .html and zoom in/out. You may also implement this on websites.
+
+## Plots from the URL group
+
+Selected graphs produced by the second group of the larger research project are are stored in the URL folder. Displayed there are alluvials emphasizing content circulation through digital platforms. 
+
