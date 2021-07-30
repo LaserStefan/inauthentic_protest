@@ -1,5 +1,5 @@
 # inauthentic_protest
-This is a collaborative research project resulting from the Digital Methods Initiative Summer School 2021. It uses methods from data analytics and brings in interpretative social science methods. The main report of the research group is published on the DMI Wiki website. The original name of the project was "Inauthentic Protest?", emphasizing the ambigious nature of protest language on social media and the web. During the course of the project, we shifted the focus on the case of Greenwashing accusations, where inauthenticity is negotiated on multiple layers.
+This is a collaborative research project resulting from the Digital Methods Initiative Summer School 2021. It uses methods from data analytics and brings in interpretative social science methods. The main report of the research group is published on the DMI Wiki website. The original name of the project was "Inauthentic Protest?", emphasizing the ambigious nature of protest language on social media and the web. During the course of the project, we shifted the focus on the case of Greenwashing accusations, where inauthenticity is negotiated on multiple layers. The larger report in the context of the Summer School [can be found here](https://wiki.digitalmethods.net/Dmi/DmiSummerSchoolGreenwashing).
 
 ### Group Members
 
