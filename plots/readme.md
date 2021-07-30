@@ -21,7 +21,7 @@ For a start, here are key frequencies from the ```greenwashing.csv``` dataset:
 - 681353 users have provided a location
 
 ## Plots
-The code for these plots can be found in ```code```.
+The code for these plots can be found in ```code```. The images with a prefix "fig_" also show up in the wiki report of the research group.
 
 - **Wordtrees_entire_dataset**: This folder presents results from wordtrees from the main dataset.
 - **greenwashing_follower_...**: Three graphs illustrate the differences between the users that are shaping certain events.
