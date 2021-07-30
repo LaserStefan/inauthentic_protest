@@ -42,5 +42,5 @@ The code for these plots can be found in ```code```. The images with a prefix "f
 
 ## Plots from the URL group
 
-Selected graphs produced by the second group of the larger research project are are stored in the URL folder. Displayed there are alluvials emphasizing content circulation through digital platforms. 
+Selected graphs (with a higher res than in the main report) produced by the second group of the larger research project are stored in the URL folder. Displayed there are alluvials emphasizing content circulation through digital platforms. 
 
